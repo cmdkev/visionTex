@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\Kevin\\miniconda3\\envs\\visionTex\\python.exe",
+    "python.dataScience.textOutputLimit": 0
 }
